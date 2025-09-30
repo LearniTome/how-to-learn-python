@@ -1,8 +1,8 @@
 # الاسبوع الأول
 
-#### المطلوب مشاهدة دروس المقدمة
+## المطلوب مشاهدة دروس المقدمة
 
-### “Introduction & Variables & Concatenation” الدروس من 1 إلى 10
+#### “Introduction & Variables & Concatenation” الدروس من 1 إلى 10
 
 * 001 – Introduction and What Is Python ?
 * 002 – What I Need ?
@@ -15,40 +15,43 @@
 * 009 – Escape Sequences Characters
 * 010 – Concatenation And Trainings
 
-# حل التكليفات
+## حل التكليفات
 
 #### المطلوب حل تكليفات الدروس من 1 إلى 10
 
-## Assignments For Lessons 1 To 10
+* Assignments For Lessons 1 To 10
 ## البحث
 كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Comments And Docstring
 * Command Line Commands
 * Concatenation
-الاسبوع الثاني
-مشاهدة الدروس
-المطلوب مشاهدة دروس النصوص والتعامل معها “Strings & Methods” الدروس من 11 إلى 18
+# الاسبوع الثاني
+## مشاهدة الدروس
+### المطلوب مشاهدة دروس النصوص والتعامل معها “Strings & Methods” الدروس من 11 إلى 18
 
-#011 – Strings
-#012 – Strings – Indexing and Slicing
-#013 – Strings Methods Part 1
-#014 – Strings Methods Part 2
-#015 – Strings Methods Part 3
-#016 – Strings Methods Part 4
-#017 – Strings Formatting Old Way
-#018 – Strings Formatting New Way
-حل التكليفات
-المطلوب حل تكليفات الدروس من 10 إلى 18
+* 011 – Strings
+* 012 – Strings – Indexing and Slicing
+* 013 – Strings Methods Part 1
+* 014 – Strings Methods Part 2
+* 015 – Strings Methods Part 3
+* 016 – Strings Methods Part 4
+* 017 – Strings Formatting Old Way
+* 018 – Strings Formatting New Way
 
-Assignments For Lessons 10 To 18
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+## حل التكليفات
 
-Python Strings Method
-Python Indexing
-Python Slicing
-الاسبوع الثالث
+#### المطلوب حل تكليفات الدروس من 10 إلى 18
+
+* Assignments For Lessons 10 To 18
+## البحث
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Strings Method
+* Python Indexing
+* Python Slicing
+
+# الاسبوع الثالث
 مشاهدة الدروس
 المطلوب مشاهدة دروس أنواع البيانات “Number, Lists, Tuples” الدروس من 19 إلى 25
 

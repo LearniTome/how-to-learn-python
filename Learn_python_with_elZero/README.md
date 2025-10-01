@@ -19,6 +19,7 @@
 
 #### المطلوب حل تكليفات الدروس من 1 إلى 10
 
+
 * Assignments For Lessons 1 To 10
 ## البحث
 كلمات البحث التي تحتاجها لزيادة معلوماتك
@@ -26,8 +27,11 @@
 * Comments And Docstring
 * Command Line Commands
 * Concatenation
+
 # الاسبوع الثاني
+
 ## مشاهدة الدروس
+
 ### المطلوب مشاهدة دروس النصوص والتعامل معها “Strings & Methods” الدروس من 11 إلى 18
 
 * 011 – Strings
@@ -52,28 +56,34 @@
 * Python Slicing
 
 # الاسبوع الثالث
-مشاهدة الدروس
-المطلوب مشاهدة دروس أنواع البيانات “Number, Lists, Tuples” الدروس من 19 إلى 25
 
-#019 – Numbers
-#020 – Arithmetic Operators
-#021 – Lists
-#022 – Lists Methods Part 1
-#023 – Lists Methods Part 2
-#024 – Tuples Methods Part 1
-#025 – Tuples Methods Part 2
-حل التكليفات
-المطلوب حل تكليفات الدروس من 19 إلى 25
+### مشاهدة الدروس
 
-Assignments For Lessons 19 To 20
-Assignments For Lessons 21 To 23
-Assignments For Lessons 24 To 25
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### المطلوب مشاهدة دروس أنواع البيانات “Number, Lists, Tuples” الدروس من 19 إلى 25
 
-Python Data Types
-Python Operators
-الاسبوع الرابع
+* 019 – Numbers
+* 020 – Arithmetic Operators
+* 021 – Lists
+* 022 – Lists Methods Part 1
+* 023 – Lists Methods Part 2
+* 024 – Tuples Methods Part 1
+* 025 – Tuples Methods Part 2
+
+### حل التكليفات
+
+#### المطلوب حل تكليفات الدروس من 19 إلى 25
+
+* Assignments For Lessons 19 To 20
+* Assignments For Lessons 21 To 23
+* Assignments For Lessons 24 To 25
+
+### البحث
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Data Types
+* Python Operators
+
+# الاسبوع الرابع
 مشاهدة الدروس
 المطلوب مشاهدة دروس أنواع البيانات “Set, Dictionary” الدروس من 26 إلى 32
 

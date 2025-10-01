@@ -57,7 +57,7 @@
 
 # الاسبوع الثالث
 
-### مشاهدة الدروس
+## مشاهدة الدروس
 
 #### المطلوب مشاهدة دروس أنواع البيانات “Number, Lists, Tuples” الدروس من 19 إلى 25
 
@@ -69,7 +69,7 @@
 * 024 – Tuples Methods Part 1
 * 025 – Tuples Methods Part 2
 
-### حل التكليفات
+## حل التكليفات
 
 #### المطلوب حل تكليفات الدروس من 19 إلى 25
 
@@ -77,55 +77,69 @@
 * Assignments For Lessons 21 To 23
 * Assignments For Lessons 24 To 25
 
-### البحث
+## البحث
 #### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Data Types
 * Python Operators
 
 # الاسبوع الرابع
-مشاهدة الدروس
-المطلوب مشاهدة دروس أنواع البيانات “Set, Dictionary” الدروس من 26 إلى 32
 
-#026 – Set
-#027 – Set Methods Part 1
-#028 – Set Methods Part 2
-#029 – Set Methods Part 3
-#030 – Dictionary
-#031 – Dictionary Methods Part 1
-#032 – Dictionary Methods Part 2
-حل التكليفات
-المطلوب حل تكليفات الدروس من 26 إلى 32
+## مشاهدة الدروس
 
-Assignments For Lessons 26 To 32
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### المطلوب مشاهدة دروس أنواع البيانات “Set, Dictionary” الدروس من 26 إلى 32
 
-Python Dictionary Examples
-Python Nested Dictionary
-الاسبوع الخامس
-مشاهدة الدروس
-المطلوب مشاهدة دروس أنواع البيانات والإدخال “Boolean, Operators, Input” الدروس من 33 إلى 40
+* 026 – Set
+* 027 – Set Methods Part 1
+* 028 – Set Methods Part 2
+* 029 – Set Methods Part 3
+* 030 – Dictionary
+* 031 – Dictionary Methods Part 1
+* 032 – Dictionary Methods Part 2
 
-#033 – Boolean
-#034 – Boolean Operators
-#035 – Assignment Operators
-#036 – Comparison Operators
-#037 – Type Conversion
-#038 – User Input
-#039 – Practical – Email Slice
-#040 – Practical – Your Age In Full Details
-حل التكليفات
-المطلوب حل تكليفات الدروس من 33 إلى 40
+## حل التكليفات
 
-Assignments For Lessons 33 To 37
-Assignments For Lessons 38 To 40
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### المطلوب حل تكليفات الدروس من 26 إلى 32
 
-Python Operators
-Python Boolean Examples
-Python User Input
+* Assignments For Lessons 26 To 32
+
+## البحث
+
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Dictionary Examples
+* Python Nested Dictionary
+
+# الاسبوع الخامس
+
+## مشاهدة الدروس
+
+#### المطلوب مشاهدة دروس أنواع البيانات والإدخال “Boolean, Operators, Input” الدروس من 33 إلى 40
+
+* 033 – Boolean
+* 034 – Boolean Operators
+* 035 – Assignment Operators
+* 036 – Comparison Operators
+* 037 – Type Conversion
+* 038 – User Input
+* 039 – Practical – Email Slice
+* 040 – Practical – Your Age In Full Details
+
+## حل التكليفات
+
+#### المطلوب حل تكليفات الدروس من 33 إلى 40
+
+* Assignments For Lessons 33 To 37
+* Assignments For Lessons 38 To 40
+
+## البحث
+
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Operators
+* Python Boolean Examples
+* Python User Input
+
 الاسبوع السادس
 مشاهدة الدروس
 المطلوب مشاهدة دروس الشروط “Control Flow” الدروس من 41 إلى 46

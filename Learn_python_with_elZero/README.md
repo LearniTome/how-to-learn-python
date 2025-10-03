@@ -1,8 +1,8 @@
-# الاسبوع الأول
+# Week 1 - الاسبوع الأول
 
-## المطلوب مشاهدة دروس المقدمة
+## Week 1 - المطلوب مشاهدة دروس المقدمة
 
-### “Introduction & Variables & Concatenation” الدروس من 1 إلى 10
+### Week 1 - “Introduction & Variables & Concatenation” الدروس من 1 إلى 10
 
 * 001 – Introduction and What Is Python ?
 * 002 – What I Need ?
@@ -15,25 +15,25 @@
 * 009 – Escape Sequences Characters
 * 010 – Concatenation And Trainings
 
-## حل التكليفات
+## Week 1 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 1 إلى 10
+### Week 1 - المطلوب حل تكليفات الدروس من 1 إلى 10
 
 * Assignments For Lessons 1 To 10
 
-## البحث
+## Week 1 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 1 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Comments And Docstring
 * Command Line Commands
 * Concatenation
 
-# الاسبوع الثاني
+# Week 2 - الاسبوع الثاني
 
-## مشاهدة الدروس
+## Week 2 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس النصوص والتعامل معها “Strings & Methods” الدروس من 11 إلى 18
+### Week 2 - المطلوب مشاهدة دروس النصوص والتعامل معها “Strings & Methods” الدروس من 11 إلى 18
 
 * 011 – Strings
 * 012 – Strings – Indexing and Slicing
@@ -44,23 +44,25 @@
 * 017 – Strings Formatting Old Way
 * 018 – Strings Formatting New Way
 
-## حل التكليفات
+## Week 2 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 10 إلى 18
+### Week 2 - المطلوب حل تكليفات الدروس من 11 إلى 18
 
-* Assignments For Lessons 10 To 18
-## البحث
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+* Assignments For Lessons 11 To 18
+
+## Week 2 - البحث
+
+### Week 2 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Strings Method
 * Python Indexing
 * Python Slicing
 
-# الاسبوع الثالث
+# Week 3 - الاسبوع الثالث
 
-## مشاهدة الدروس
+## Week 3 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس أنواع البيانات “Number, Lists, Tuples” الدروس من 19 إلى 25
+### Week 3 - المطلوب مشاهدة دروس أنواع البيانات “Number, Lists, Tuples” الدروس من 19 إلى 25
 
 * 019 – Numbers
 * 020 – Arithmetic Operators
@@ -70,25 +72,26 @@
 * 024 – Tuples Methods Part 1
 * 025 – Tuples Methods Part 2
 
-## حل التكليفات
+## Week 3 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 19 إلى 25
+### Week 3 - المطلوب حل تكليفات الدروس من 19 إلى 25
 
 * Assignments For Lessons 19 To 20
 * Assignments For Lessons 21 To 23
 * Assignments For Lessons 24 To 25
 
-## البحث
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+## Week 3 - البحث
+
+### Week 3 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Data Types
 * Python Operators
 
-# الاسبوع الرابع
+# Week 4 - الاسبوع الرابع
 
-## مشاهدة الدروس
+## Week 4 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس أنواع البيانات “Set, Dictionary” الدروس من 26 إلى 32
+### Week 4 - المطلوب مشاهدة دروس أنواع البيانات “Set, Dictionary” الدروس من 26 إلى 32
 
 * 026 – Set
 * 027 – Set Methods Part 1
@@ -98,24 +101,24 @@
 * 031 – Dictionary Methods Part 1
 * 032 – Dictionary Methods Part 2
 
-## حل التكليفات
+## Week 4 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 26 إلى 32
+### Week 4 - المطلوب حل تكليفات الدروس من 26 إلى 32
 
 * Assignments For Lessons 26 To 32
 
-## البحث
+## Week 4 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 4 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Dictionary Examples
 * Python Nested Dictionary
 
-# الاسبوع الخامس
+# Week 5 - الاسبوع الخامس
 
-## مشاهدة الدروس
+## Week 5 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس أنواع البيانات والإدخال “Boolean, Operators, Input” الدروس من 33 إلى 40
+### Week 5 - المطلوب مشاهدة دروس أنواع البيانات والإدخال “Boolean, Operators, Input” الدروس من 33 إلى 40
 
 * 033 – Boolean
 * 034 – Boolean Operators
@@ -126,26 +129,26 @@
 * 039 – Practical – Email Slice
 * 040 – Practical – Your Age In Full Details
 
-## حل التكليفات
+## Week 5 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 33 إلى 40
+### Week 5 - المطلوب حل تكليفات الدروس من 33 إلى 40
 
 * Assignments For Lessons 33 To 37
 * Assignments For Lessons 38 To 40
 
-## البحث
+## Week 5 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 5 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Operators
 * Python Boolean Examples
 * Python User Input
 
-# الاسبوع السادس
+# Week 6 - الاسبوع السادس
 
-## مشاهدة الدروس
+## Week 6 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس الشروط “Control Flow” الدروس من 41 إلى 46
+### Week 6 - المطلوب مشاهدة دروس الشروط “Control Flow” الدروس من 41 إلى 46
 
 * 041 – Control Flow – If, Elif, Else
 * 042 – Control Flow – Nested If And Trainings
@@ -154,24 +157,24 @@
 * 045 – Membership Operators
 * 046 – Practical Membership Control
 
-## حل التكليفات
+## Week 6 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 41 إلى 46
+### Week 6 - المطلوب حل تكليفات الدروس من 41 إلى 46
 
 * Assignments For Lessons 41 To 46
 
-## البحث
+## Week 6 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 6 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Control Flow
 * Python Ternary Operator
 
-# الاسبوع السابع
+# Week 7 - الاسبوع السابع
 
-## مشاهدة الدروس
+## Week 7 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس ألتكرار “Loop” الدروس من 47 إلى 55
+### Week 7 - المطلوب مشاهدة دروس ألتكرار “Loop” الدروس من 47 إلى 55
 
 * 047 – Loop – While And Else
 * 048 – Loop – While Trainings
@@ -183,26 +186,26 @@
 * 054 – Break, Continue, Pass
 * 055 – Loop Advanced Dictionary
 
-## حل التكليفات
+## Week 7 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 47 إلى 55
+### Week 7 - المطلوب حل تكليفات الدروس من 47 إلى 55
 
 * Assignments For Lessons 47 To 50
 * Assignments For Lessons 51 To 55
 
-## البحث
+## Week 7 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 7 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Loop Practice
 * Python Loop Index
 * Python Loop Operation
 
-# الاسبوع الثامن
+# Week 8 - الاسبوع الثامن
 
-## مشاهدة الدروس
+## Week 8 - مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس الدوال “Function” الدروس من 56 إلى 64
+### Week 8 - المطلوب مشاهدة دروس الدوال “Function” الدروس من 56 إلى 64
 
 * 056 – Function and Return
 * 057 – Function Parameters And Arguments
@@ -214,51 +217,51 @@
 * 063 – Function Recursion
 * 064 – Function Lambda
 
-## حل التكليفات
+## Week 8 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 56 إلى 64
+### Week 8 - المطلوب حل تكليفات الدروس من 56 إلى 64
 
 * Assignments For Lessons 56 To 59
 * Assignments For Lessons 60 To 64
 
-## البحث
+## Week 8 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 8 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Function
 * Python Lambda
 * Python Function Inside Function
 * Python Function Return
 
-# الاسبوع التاسع
+# Week 9 - الاسبوع التاسع
 
-## مشاهدة الدروس
+## Week 9 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس التعامل مع الملفات “Files Handling” الدروس من 65 إلى 68
+### Week 9 - المطلوب مشاهدة دروس التعامل مع الملفات “Files Handling” الدروس من 65 إلى 68
 
 * 065 – Files Handling Part 1 – Intro
 * 066 – Files Handling Part 2 – Read Files
 * 067 – Files Handling Part 3 – Write And Append In Files
-* 068 – Files Handling Part 4 – Important Informations
+* 068 – Files Handling Part 4 – Important Information
 
-## حل التكليفات
+## Week 9 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 65 إلى 68
+### Week 9 - المطلوب حل تكليفات الدروس من 65 إلى 68
 
 * Assignments For Lessons 65 To 68
 
-## البحث
+## Week 9 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 9 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Files Handling
 * Python Files With Keyword
 
-# الاسبوع العاشر
+# Week 10 - الاسبوع العاشر
 
-## مشاهدة الدروس
+## Week 10 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس الدوال الجاهزة “Built In Functions” الدروس من 69 إلى 75
+### Week 10 - المطلوب مشاهدة دروس الدوال الجاهزة “Built In Functions” الدروس من 69 إلى 75
 
 * 069 – Built In Functions Part 1
 * 070 – Built In Functions Part 2
@@ -268,25 +271,25 @@
 * 074 – Built In Functions Part 6 – Reduce
 * 075 – Built In Functions Part 7
 
-## حل التكليفات
+## Week 10 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 69 إلى 75
+### Week 10 - المطلوب حل تكليفات الدروس من 69 إلى 75
 
 * Assignments For Lessons 69 To 71
 * Assignments For Lessons 72 To 75
 
-## البحث
+## Week 10 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 10 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Built In Function
 * Python Implement Built In Function
 
-# الاسبوع الحادي عشر
+# Week 11 - الاسبوع الحادي عشر
 
-## مشاهدة الدروس
+## Week 11 - مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس “Modules, Date, Decorators” الدروس من 76 إلى 85
+### Week 11 - المطلوب مشاهدة دروس “Modules, Date, Decorators” الدروس من 76 إلى 85
 
 * 076 – Modules Part 1 – Intro And Built In Modules
 * 077 – Modules Part 2 – Create Your Module
@@ -299,27 +302,27 @@
 * 084 – Decorators – Function With Parameters
 * 085 – Decorators – Practical Speed Test
 
-## حل التكليفات
+## Week 11 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 76 إلى 85
+### Week 11 - المطلوب حل تكليفات الدروس من 76 إلى 85
 
 * Assignments For Lessons 76 To 78
 * Assignments For Lessons 79 To 80
 * Assignments For Lessons 81 To 85
 
-## البحث
+## Week 11 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 11 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Generators
 * Python Decorators Use Cases
 * Python Date Formatting
 
-# الاسبوع الثاني عشر
+# Week 12 - الاسبوع الثاني عشر
 
-## مشاهدة الدروس
+## Week 12 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس “Modules, Error Handling” الدروس من 86 إلى 94
+### Week 12 - المطلوب مشاهدة دروس “Modules, Error Handling” الدروس من 86 إلى 94
 
 * 086 – Practical Loop On Many Iterators With Zip
 * 087 – Practical Image Manipulation With Pillow
@@ -331,25 +334,25 @@
 * 093 – Debugging Code
 * 094 – Type Hinting
 
-## حل التكليفات
+## Week 12 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 86 إلى 94
+### Week 12 - المطلوب حل تكليفات الدروس من 86 إلى 94
 
 * Assignments For Lessons 86 To 89
 * Assignments For Lessons 90 To 94
 
-## البحث
+## Week 12 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 12 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Handling Errors
 * Python Type Hinting
 
-# الاسبوع الثالث عشر
+# Week 13 - الاسبوع الثالث عشر
 
-## مشاهدة الدروس
+## Week 13 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس “Regular Expression” الدروس من 95 إلى 102
+### Week 13 - المطلوب مشاهدة دروس “Regular Expression” الدروس من 95 إلى 102
 
 * 095 – Regular Expression Part 1 – Intro
 * 096 – Regular Expression Part 2 – Quantifiers
@@ -360,25 +363,25 @@
 * 101 – Regular Expression Part 7 – Re Module Split And Sub
 * 102 – Regular Expression Part 8 – Group Trainings And Flags
 
-## حل التكليفات
+## Week 13 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 95 إلى 102
+### Week 13 - المطلوب حل تكليفات الدروس من 95 إلى 102
 
 * Assignments For Lessons 95 To 102
 
-## البحث
+## Week 13 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 13 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Regular Expression
 * Python RegExp
 * Python Rematch
 
-# الاسبوع الرابع عشر
+# Week 14 - الاسبوع الرابع عشر
 
-## مشاهدة الدروس
+## Week 14 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس “Object Oriented Programming” الدروس من 103 إلى 116
+### Week 14 - المطلوب مشاهدة دروس “Object Oriented Programming” الدروس من 103 إلى 116
 
 * 103 – OOP – Part 1 – Introduction
 * 104 – OOP – Part 2 – Class Syntax And Information
@@ -395,25 +398,25 @@
 * 115 – OOP – Part 13 – @Property Decorator
 * 116 – OOP – Part 14 – ABCs Abstract Base Class
 
-## حل التكليفات
+## Week 14 - حل التكليفات
 
-### المطلوب حل تكليفات الدروس من 103 إلى 116
+### Week 14 - المطلوب حل تكليفات الدروس من 103 إلى 116
 
 * Assignments For Lessons 103 To 116
 
-## البحث
+## Week 14 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 14 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Object Oriented Programming
 * Python OOP
 * Python Class And Objects
 
-# الاسبوع الخامس عشر
+# Week 15 - الاسبوع الخامس عشر
 
-## مشاهدة الدروس
+## Week 15 - مشاهدة الدروس
 
-### المطلوب مشاهدة دروس “SQLite Database” الدروس من 117 إلى 127
+### Week 15 - المطلوب مشاهدة دروس “SQLite Database” الدروس من 117 إلى 127
 
 * 117 – Databases – Intro To Database
 * 118 – Databases – SQLite Create Database And Connect
@@ -425,17 +428,17 @@
 * 124 – Databases – SQLite Create Skills App Part 2
 * 125 – Databases – SQLite Create Skills App Part 3
 * 126 – Databases – SQLite Create Skills App Part 4
-* 127 – Databases – SQLite Very Important Informations
+* 127 – Databases – SQLite Very Important Information
 
-## حل التكليفات
+## Week 15 - حل التكليفات
 
-# المطلوب حل تكليفات الدروس من 117 إلى 127
+### Week 15 - المطلوب حل تكليفات الدروس من 117 إلى 127
 
 * Assignments For Lessons 117 To 127
 
-## البحث
+## Week 15 - البحث
 
-### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### Week 15 - كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Databases
 * Python SQLite
@@ -445,4 +448,3 @@
 * Database Insert
 * Database Delete
 * Database Update
-

@@ -229,23 +229,30 @@
 * Python Function Inside Function
 * Python Function Return
 
-الاسبوع التاسع
-مشاهدة الدروس
-المطلوب مشاهدة دروس التعامل مع الملفات “Files Handling” الدروس من 65 إلى 68
+# الاسبوع التاسع
 
-#065 – Files Handling Part 1 – Intro
-#066 – Files Handling Part 2 – Read Files
-#067 – Files Handling Part 3 – Write And Append In Files
-#068 – Files Handling Part 4 – Important Informations
-حل التكليفات
-المطلوب حل تكليفات الدروس من 65 إلى 68
+## مشاهدة الدروس
 
-Assignments For Lessons 65 To 68
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### المطلوب مشاهدة دروس التعامل مع الملفات “Files Handling” الدروس من 65 إلى 68
 
-Python Files Handling
-Python Files With Keyword
+* 065 – Files Handling Part 1 – Intro
+* 066 – Files Handling Part 2 – Read Files
+* 067 – Files Handling Part 3 – Write And Append In Files
+* 068 – Files Handling Part 4 – Important Informations
+
+## حل التكليفات
+
+#### المطلوب حل تكليفات الدروس من 65 إلى 68
+
+* Assignments For Lessons 65 To 68
+
+## البحث
+
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Files Handling
+* Python Files With Keyword
+
 الاسبوع العاشر
 مشاهدة الدروس
 المطلوب مشاهدة دروس الدوال الجاهزة “Built In Functions” الدروس من 69 إلى 75

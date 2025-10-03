@@ -344,104 +344,103 @@
 * Python Handling Errors
 * Python Type Hinting
 
-الاسبوع الثالث عشر
+# الاسبوع الثالث عشر
 
-مشاهدة الدروس
+## مشاهدة الدروس
 
-المطلوب مشاهدة دروس “Regular Expression” الدروس من 95 إلى 102
+#### المطلوب مشاهدة دروس “Regular Expression” الدروس من 95 إلى 102
 
-#095 – Regular Expression Part 1 – Intro
-#096 – Regular Expression Part 2 – Quantifiers
-#097 – Regular Expression Part 3 – Characters Classes Trainings
-#098 – Regular Expression Part 4 – Assertions And Email Pattern
-#099 – Regular Expression Part 5 – Logical Or And Escaping
-#100 – Regular Expression Part 6 – Re Module Search And FindAll
-#101 – Regular Expression Part 7 – Re Module Split And Sub
-#102 – Regular Expression Part 8 – Group Trainings And Flags
+* 095 – Regular Expression Part 1 – Intro
+* 096 – Regular Expression Part 2 – Quantifiers
+* 097 – Regular Expression Part 3 – Characters Classes Trainings
+* 098 – Regular Expression Part 4 – Assertions And Email Pattern
+* 099 – Regular Expression Part 5 – Logical Or And Escaping
+* 100 – Regular Expression Part 6 – Re Module Search And FindAll
+* 101 – Regular Expression Part 7 – Re Module Split And Sub
+* 102 – Regular Expression Part 8 – Group Trainings And Flags
 
-حل التكليفات
+## حل التكليفات
 
-المطلوب حل تكليفات الدروس من 95 إلى 102
+#### المطلوب حل تكليفات الدروس من 95 إلى 102
 
-Assignments For Lessons 95 To 102
+* Assignments For Lessons 95 To 102
 
-البحث
+## البحث
 
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
-Python Regular Expression
-Python RegExp
-Python Rematch
+* Python Regular Expression
+* Python RegExp
+* Python Rematch
 
-الاسبوع الرابع عشر
+# الاسبوع الرابع عشر
 
-مشاهدة الدروس
+## مشاهدة الدروس
 
-المطلوب مشاهدة دروس “Object Oriented Programming” الدروس من 103 إلى 116
+#### المطلوب مشاهدة دروس “Object Oriented Programming” الدروس من 103 إلى 116
 
-#103 – OOP – Part 1 – Introduction
-#104 – OOP – Part 2 – Class Syntax And Information
-#105 – OOP – Part 3 – Instance Attributes And Methods Part 1
-#106 – OOP – Part 4 – Instance Attributes And Methods Part 2
-#107 – OOP – Part 5 – Class Attributes
-#108 – OOP – Part 6 – Class Methods And Static Methods
-#109 – OOP – Part 7 – Magic Methods
-#110 – OOP – Part 8 – Inheritance
-#111 – OOP – Part 9 – Multiple Inheritance And Method Overriding
-#112 – OOP – Part 10 – Polymorphism
-#113 – OOP – Part 11 – Encapsulation
-#114 – OOP – Part 12 – Getters And Setters
-#115 – OOP – Part 13 – @Property Decorator
-#116 – OOP – Part 14 – ABCs Abstract Base Class
+* 103 – OOP – Part 1 – Introduction
+* 104 – OOP – Part 2 – Class Syntax And Information
+* 105 – OOP – Part 3 – Instance Attributes And Methods Part 1
+* 106 – OOP – Part 4 – Instance Attributes And Methods Part 2
+* 107 – OOP – Part 5 – Class Attributes
+* 108 – OOP – Part 6 – Class Methods And Static Methods
+* 109 – OOP – Part 7 – Magic Methods
+* 110 – OOP – Part 8 – Inheritance
+* 111 – OOP – Part 9 – Multiple Inheritance And Method Overriding
+* 112 – OOP – Part 10 – Polymorphism
+* 113 – OOP – Part 11 – Encapsulation
+* 114 – OOP – Part 12 – Getters And Setters
+* 115 – OOP – Part 13 – @Property Decorator
+* 116 – OOP – Part 14 – ABCs Abstract Base Class
 
-حل التكليفات
+## حل التكليفات
 
-المطلوب حل تكليفات الدروس من 103 إلى 116
+#### المطلوب حل تكليفات الدروس من 103 إلى 116
 
-Assignments For Lessons 103 To 116
+* Assignments For Lessons 103 To 116
 
-البحث
+## البحث
 
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
-Python Object Oriented Programming
-Python OOP
-Python Class And Objects
+* Python Object Oriented Programming
+* Python OOP
+* Python Class And Objects
 
-الاسبوع الخامس عشر
+# الاسبوع الخامس عشر
 
-مشاهدة الدروس
+## مشاهدة الدروس
 
-المطلوب مشاهدة دروس “SQLite Database” الدروس من 117 إلى 127
+#### المطلوب مشاهدة دروس “SQLite Database” الدروس من 117 إلى 127
 
-#117 – Databases – Intro To Database
-#118 – Databases – SQLite Create Database And Connect
-#119 – Databases – SQLite Insert Data Into Database
-#120 – Databases – SQLite Retrieve Data From Database
-#121 – Databases – SQLite Training On Everything
-#122 – Databases – SQLite Update And Delete From Database
-#123 – Databases – SQLite Create Skills App Part 1
-#124 – Databases – SQLite Create Skills App Part 2
-#125 – Databases – SQLite Create Skills App Part 3
-#126 – Databases – SQLite Create Skills App Part 4
-#127 – Databases – SQLite Very Important Informations
+* 117 – Databases – Intro To Database
+* 118 – Databases – SQLite Create Database And Connect
+* 119 – Databases – SQLite Insert Data Into Database
+* 120 – Databases – SQLite Retrieve Data From Database
+* 121 – Databases – SQLite Training On Everything
+* 122 – Databases – SQLite Update And Delete From Database
+* 123 – Databases – SQLite Create Skills App Part 1
+* 124 – Databases – SQLite Create Skills App Part 2
+* 125 – Databases – SQLite Create Skills App Part 3
+* 126 – Databases – SQLite Create Skills App Part 4
+* 127 – Databases – SQLite Very Important Informations
 
-حل التكليفات
+## حل التكليفات
 
-المطلوب حل تكليفات الدروس من 117 إلى 127
+# المطلوب حل تكليفات الدروس من 117 إلى 127
 
-Assignments For Lessons 117 To 127
+* Assignments For Lessons 117 To 127
 
-البحث
+## البحث
 
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
-Python Databases
-Python SQLite
-Python Database Concept
-Database Datatypes
-Database Select
-Database Insert
-Database Delete
-Database Update
-
+* Python Databases
+* Python SQLite
+* Python Database Concept
+* Database Datatypes
+* Database Select
+* Database Insert
+* Database Delete
+* Database Update

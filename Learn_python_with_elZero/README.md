@@ -140,25 +140,31 @@
 * Python Boolean Examples
 * Python User Input
 
-الاسبوع السادس
-مشاهدة الدروس
-المطلوب مشاهدة دروس الشروط “Control Flow” الدروس من 41 إلى 46
+# الاسبوع السادس
 
-#041 – Control Flow – If, Elif, Else
-#042 – Control Flow – Nested If And Trainings
-#043 – Control Flow – Ternary Conditional Operator
-#044 – Calculate Age Advanced Version And Training
-#045 – Membership Operators
-#046 – Practical Membership Control
-حل التكليفات
-المطلوب حل تكليفات الدروس من 41 إلى 46
+## مشاهدة الدروس
 
-Assignments For Lessons 41 To 46
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### المطلوب مشاهدة دروس الشروط “Control Flow” الدروس من 41 إلى 46
 
-Python Control Flow
-Python Ternary Operator
+* 041 – Control Flow – If, Elif, Else
+* 042 – Control Flow – Nested If And Trainings
+* 043 – Control Flow – Ternary Conditional Operator
+* 044 – Calculate Age Advanced Version And Training
+* 045 – Membership Operators
+* 046 – Practical Membership Control
+
+## حل التكليفات
+
+#### المطلوب حل تكليفات الدروس من 41 إلى 46
+
+* Assignments For Lessons 41 To 46
+
+## البحث
+
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Control Flow
+* Python Ternary Operator
 الاسبوع السابع
 مشاهدة الدروس
 المطلوب مشاهدة دروس ألتكرار “Loop” الدروس من 47 إلى 55

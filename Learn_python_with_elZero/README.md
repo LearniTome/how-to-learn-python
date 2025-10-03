@@ -2,7 +2,7 @@
 
 ## المطلوب مشاهدة دروس المقدمة
 
-#### “Introduction & Variables & Concatenation” الدروس من 1 إلى 10
+### “Introduction & Variables & Concatenation” الدروس من 1 إلى 10
 
 * 001 – Introduction and What Is Python ?
 * 002 – What I Need ?
@@ -17,12 +17,13 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 1 إلى 10
-
+### المطلوب حل تكليفات الدروس من 1 إلى 10
 
 * Assignments For Lessons 1 To 10
+
 ## البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Comments And Docstring
 * Command Line Commands
@@ -45,11 +46,11 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 10 إلى 18
+### المطلوب حل تكليفات الدروس من 10 إلى 18
 
 * Assignments For Lessons 10 To 18
 ## البحث
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Strings Method
 * Python Indexing
@@ -59,7 +60,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس أنواع البيانات “Number, Lists, Tuples” الدروس من 19 إلى 25
+### المطلوب مشاهدة دروس أنواع البيانات “Number, Lists, Tuples” الدروس من 19 إلى 25
 
 * 019 – Numbers
 * 020 – Arithmetic Operators
@@ -71,14 +72,14 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 19 إلى 25
+### المطلوب حل تكليفات الدروس من 19 إلى 25
 
 * Assignments For Lessons 19 To 20
 * Assignments For Lessons 21 To 23
 * Assignments For Lessons 24 To 25
 
 ## البحث
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Data Types
 * Python Operators
@@ -87,7 +88,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس أنواع البيانات “Set, Dictionary” الدروس من 26 إلى 32
+### المطلوب مشاهدة دروس أنواع البيانات “Set, Dictionary” الدروس من 26 إلى 32
 
 * 026 – Set
 * 027 – Set Methods Part 1
@@ -99,7 +100,7 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 26 إلى 32
+### المطلوب حل تكليفات الدروس من 26 إلى 32
 
 * Assignments For Lessons 26 To 32
 
@@ -114,7 +115,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس أنواع البيانات والإدخال “Boolean, Operators, Input” الدروس من 33 إلى 40
+### المطلوب مشاهدة دروس أنواع البيانات والإدخال “Boolean, Operators, Input” الدروس من 33 إلى 40
 
 * 033 – Boolean
 * 034 – Boolean Operators
@@ -127,14 +128,14 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 33 إلى 40
+### المطلوب حل تكليفات الدروس من 33 إلى 40
 
 * Assignments For Lessons 33 To 37
 * Assignments For Lessons 38 To 40
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Operators
 * Python Boolean Examples
@@ -144,7 +145,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس الشروط “Control Flow” الدروس من 41 إلى 46
+### المطلوب مشاهدة دروس الشروط “Control Flow” الدروس من 41 إلى 46
 
 * 041 – Control Flow – If, Elif, Else
 * 042 – Control Flow – Nested If And Trainings
@@ -155,13 +156,13 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 41 إلى 46
+### المطلوب حل تكليفات الدروس من 41 إلى 46
 
 * Assignments For Lessons 41 To 46
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Control Flow
 * Python Ternary Operator
@@ -170,7 +171,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس ألتكرار “Loop” الدروس من 47 إلى 55
+### المطلوب مشاهدة دروس ألتكرار “Loop” الدروس من 47 إلى 55
 
 * 047 – Loop – While And Else
 * 048 – Loop – While Trainings
@@ -184,14 +185,14 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 47 إلى 55
+### المطلوب حل تكليفات الدروس من 47 إلى 55
 
 * Assignments For Lessons 47 To 50
 * Assignments For Lessons 51 To 55
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Loop Practice
 * Python Loop Index
@@ -201,7 +202,7 @@
 
 ## مشاهدة الدروس
 
-##### المطلوب مشاهدة دروس الدوال “Function” الدروس من 56 إلى 64
+#### المطلوب مشاهدة دروس الدوال “Function” الدروس من 56 إلى 64
 
 * 056 – Function and Return
 * 057 – Function Parameters And Arguments
@@ -215,14 +216,14 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 56 إلى 64
+### المطلوب حل تكليفات الدروس من 56 إلى 64
 
 * Assignments For Lessons 56 To 59
 * Assignments For Lessons 60 To 64
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Function
 * Python Lambda
@@ -233,7 +234,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس التعامل مع الملفات “Files Handling” الدروس من 65 إلى 68
+### المطلوب مشاهدة دروس التعامل مع الملفات “Files Handling” الدروس من 65 إلى 68
 
 * 065 – Files Handling Part 1 – Intro
 * 066 – Files Handling Part 2 – Read Files
@@ -242,13 +243,13 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 65 إلى 68
+### المطلوب حل تكليفات الدروس من 65 إلى 68
 
 * Assignments For Lessons 65 To 68
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Files Handling
 * Python Files With Keyword
@@ -257,7 +258,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس الدوال الجاهزة “Built In Functions” الدروس من 69 إلى 75
+### المطلوب مشاهدة دروس الدوال الجاهزة “Built In Functions” الدروس من 69 إلى 75
 
 * 069 – Built In Functions Part 1
 * 070 – Built In Functions Part 2
@@ -269,14 +270,14 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 69 إلى 75
+### المطلوب حل تكليفات الدروس من 69 إلى 75
 
 * Assignments For Lessons 69 To 71
 * Assignments For Lessons 72 To 75
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Built In Function
 * Python Implement Built In Function
@@ -285,7 +286,7 @@
 
 ## مشاهدة الدروس
 
-##### المطلوب مشاهدة دروس “Modules, Date, Decorators” الدروس من 76 إلى 85
+#### المطلوب مشاهدة دروس “Modules, Date, Decorators” الدروس من 76 إلى 85
 
 * 076 – Modules Part 1 – Intro And Built In Modules
 * 077 – Modules Part 2 – Create Your Module
@@ -300,7 +301,7 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 76 إلى 85
+### المطلوب حل تكليفات الدروس من 76 إلى 85
 
 * Assignments For Lessons 76 To 78
 * Assignments For Lessons 79 To 80
@@ -308,7 +309,7 @@
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Generators
 * Python Decorators Use Cases
@@ -318,7 +319,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس “Modules, Error Handling” الدروس من 86 إلى 94
+### المطلوب مشاهدة دروس “Modules, Error Handling” الدروس من 86 إلى 94
 
 * 086 – Practical Loop On Many Iterators With Zip
 * 087 – Practical Image Manipulation With Pillow
@@ -332,14 +333,14 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 86 إلى 94
+### المطلوب حل تكليفات الدروس من 86 إلى 94
 
 * Assignments For Lessons 86 To 89
 * Assignments For Lessons 90 To 94
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Handling Errors
 * Python Type Hinting
@@ -348,7 +349,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس “Regular Expression” الدروس من 95 إلى 102
+### المطلوب مشاهدة دروس “Regular Expression” الدروس من 95 إلى 102
 
 * 095 – Regular Expression Part 1 – Intro
 * 096 – Regular Expression Part 2 – Quantifiers
@@ -361,13 +362,13 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 95 إلى 102
+### المطلوب حل تكليفات الدروس من 95 إلى 102
 
 * Assignments For Lessons 95 To 102
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Regular Expression
 * Python RegExp
@@ -377,7 +378,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس “Object Oriented Programming” الدروس من 103 إلى 116
+### المطلوب مشاهدة دروس “Object Oriented Programming” الدروس من 103 إلى 116
 
 * 103 – OOP – Part 1 – Introduction
 * 104 – OOP – Part 2 – Class Syntax And Information
@@ -396,13 +397,13 @@
 
 ## حل التكليفات
 
-#### المطلوب حل تكليفات الدروس من 103 إلى 116
+### المطلوب حل تكليفات الدروس من 103 إلى 116
 
 * Assignments For Lessons 103 To 116
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Object Oriented Programming
 * Python OOP
@@ -412,7 +413,7 @@
 
 ## مشاهدة الدروس
 
-#### المطلوب مشاهدة دروس “SQLite Database” الدروس من 117 إلى 127
+### المطلوب مشاهدة دروس “SQLite Database” الدروس من 117 إلى 127
 
 * 117 – Databases – Intro To Database
 * 118 – Databases – SQLite Create Database And Connect
@@ -434,7 +435,7 @@
 
 ## البحث
 
-#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 * Python Databases
 * Python SQLite
@@ -444,3 +445,4 @@
 * Database Insert
 * Database Delete
 * Database Update
+

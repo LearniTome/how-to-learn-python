@@ -197,31 +197,38 @@
 * Python Loop Index
 * Python Loop Operation
 
-الاسبوع الثامن
-مشاهدة الدروس
-المطلوب مشاهدة دروس الدوال “Function” الدروس من 56 إلى 64
+# الاسبوع الثامن
 
-#056 – Function and Return
-#057 – Function Parameters And Arguments
-#058 – Function Packing, Unpacking Arguments
-#059 – Function Default Parameters
-#060 – Function Packing, Unpacking Keyword Arguments
-#061 – Function Packing, Unpacking Arguments Trainings
-#062 – Function Scope
-#063 – Function Recursion
-#064 – Function Lambda
-حل التكليفات
-المطلوب حل تكليفات الدروس من 56 إلى 64
+## مشاهدة الدروس
 
-Assignments For Lessons 56 To 59
-Assignments For Lessons 60 To 64
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+##### المطلوب مشاهدة دروس الدوال “Function” الدروس من 56 إلى 64
 
-Python Function
-Python Lambda
-Python Function Inside Function
-Python Function Return
+* 056 – Function and Return
+* 057 – Function Parameters And Arguments
+* 058 – Function Packing, Unpacking Arguments
+* 059 – Function Default Parameters
+* 060 – Function Packing, Unpacking Keyword Arguments
+* 061 – Function Packing, Unpacking Arguments Trainings
+* 062 – Function Scope
+* 063 – Function Recursion
+* 064 – Function Lambda
+
+## حل التكليفات
+
+#### المطلوب حل تكليفات الدروس من 56 إلى 64
+
+* Assignments For Lessons 56 To 59
+* Assignments For Lessons 60 To 64
+
+## البحث
+
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Function
+* Python Lambda
+* Python Function Inside Function
+* Python Function Return
+
 الاسبوع التاسع
 مشاهدة الدروس
 المطلوب مشاهدة دروس التعامل مع الملفات “Files Handling” الدروس من 65 إلى 68

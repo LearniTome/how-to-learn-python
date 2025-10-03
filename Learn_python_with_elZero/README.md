@@ -165,30 +165,38 @@
 
 * Python Control Flow
 * Python Ternary Operator
-الاسبوع السابع
-مشاهدة الدروس
-المطلوب مشاهدة دروس ألتكرار “Loop” الدروس من 47 إلى 55
 
-#047 – Loop – While And Else
-#048 – Loop – While Trainings
-#049 – Loop – While Trainings Bookmark Manager
-#050 – Loop – While Trainings Password Guess
-#051 – Loop – For And Else
-#052 – Loop – For Trainings
-#053 – Loop – For Nested Loop
-#054 – Break, Continue, Pass
-#055 – Loop Advanced Dictionary
-حل التكليفات
-المطلوب حل تكليفات الدروس من 47 إلى 55
+# الاسبوع السابع
 
-Assignments For Lessons 47 To 50
-Assignments For Lessons 51 To 55
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+## مشاهدة الدروس
 
-Python Loop Practice
-Python Loop Index
-Python Loop Operation
+#### المطلوب مشاهدة دروس ألتكرار “Loop” الدروس من 47 إلى 55
+
+* 047 – Loop – While And Else
+* 048 – Loop – While Trainings
+* 049 – Loop – While Trainings Bookmark Manager
+* 050 – Loop – While Trainings Password Guess
+* 051 – Loop – For And Else
+* 052 – Loop – For Trainings
+* 053 – Loop – For Nested Loop
+* 054 – Break, Continue, Pass
+* 055 – Loop Advanced Dictionary
+
+## حل التكليفات
+
+#### المطلوب حل تكليفات الدروس من 47 إلى 55
+
+* Assignments For Lessons 47 To 50
+* Assignments For Lessons 51 To 55
+
+## البحث
+
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Loop Practice
+* Python Loop Index
+* Python Loop Operation
+
 الاسبوع الثامن
 مشاهدة الدروس
 المطلوب مشاهدة دروس الدوال “Function” الدروس من 56 إلى 64

@@ -253,78 +253,101 @@
 * Python Files Handling
 * Python Files With Keyword
 
-الاسبوع العاشر
-مشاهدة الدروس
-المطلوب مشاهدة دروس الدوال الجاهزة “Built In Functions” الدروس من 69 إلى 75
+# الاسبوع العاشر
 
-#069 – Built In Functions Part 1
-#070 – Built In Functions Part 2
-#071 – Built In Functions Part 3
-#072 – Built In Functions Part 4 – Map
-#073 – Built In Functions Part 5 – Filter
-#074 – Built In Functions Part 6 – Reduce
-#075 – Built In Functions Part 7
-حل التكليفات
-المطلوب حل تكليفات الدروس من 69 إلى 75
+## مشاهدة الدروس
 
-Assignments For Lessons 69 To 71
-Assignments For Lessons 72 To 75
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### المطلوب مشاهدة دروس الدوال الجاهزة “Built In Functions” الدروس من 69 إلى 75
 
-Python Built In Function
-Python Implement Built In Function
-الاسبوع الحادي عشر
-مشاهدة الدروس
-المطلوب مشاهدة دروس “Modules, Date, Decorators” الدروس من 76 إلى 85
+* 069 – Built In Functions Part 1
+* 070 – Built In Functions Part 2
+* 071 – Built In Functions Part 3
+* 072 – Built In Functions Part 4 – Map
+* 073 – Built In Functions Part 5 – Filter
+* 074 – Built In Functions Part 6 – Reduce
+* 075 – Built In Functions Part 7
 
-#076 – Modules Part 1 – Intro And Built In Modules
-#077 – Modules Part 2 – Create Your Module
-#078 – Modules Part 3 – Install External Packages
-#079 – Date And Time – Introduction
-#080 – Date And Time – Format Date
-#081 – Iterable Vs Iterator
-#082 – Generators
-#083 – Decorators – Intro
-#084 – Decorators – Function With Parameters
-#085 – Decorators – Practical Speed Test
-حل التكليفات
-المطلوب حل تكليفات الدروس من 76 إلى 85
+## حل التكليفات
 
-Assignments For Lessons 76 To 78
-Assignments For Lessons 79 To 80
-Assignments For Lessons 81 To 85
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### المطلوب حل تكليفات الدروس من 69 إلى 75
 
-Python Generators
-Python Decorators Use Cases
-Python Date Formatting
-الاسبوع الثاني عشر
-مشاهدة الدروس
-المطلوب مشاهدة دروس “Modules, Error Handling” الدروس من 86 إلى 94
+* Assignments For Lessons 69 To 71
+* Assignments For Lessons 72 To 75
 
-#086 – Practical Loop On Many Iterators With Zip
-#087 – Practical Image Manipulation With Pillow
-#088 – Docstring And Commenting vs Documenting
-#089 – Installing And Use Pylint For Better Code
-#090 – Errors And Exceptions Raising
-#091 – Exceptions Handling Try Except Else Finally
-#092 – Exceptions Handling Advanced Example
-#093 – Debugging Code
-#094 – Type Hinting
-حل التكليفات
-المطلوب حل تكليفات الدروس من 86 إلى 94
+## البحث
 
-Assignments For Lessons 86 To 89
-Assignments For Lessons 90 To 94
-البحث
-كلمات البحث التي تحتاجها لزيادة معلوماتك
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
 
-Python Handling Errors
-Python Type Hinting
+* Python Built In Function
+* Python Implement Built In Function
+
+# الاسبوع الحادي عشر
+
+## مشاهدة الدروس
+
+##### المطلوب مشاهدة دروس “Modules, Date, Decorators” الدروس من 76 إلى 85
+
+* 076 – Modules Part 1 – Intro And Built In Modules
+* 077 – Modules Part 2 – Create Your Module
+* 078 – Modules Part 3 – Install External Packages
+* 079 – Date And Time – Introduction
+* 080 – Date And Time – Format Date
+* 081 – Iterable Vs Iterator
+* 082 – Generators
+* 083 – Decorators – Intro
+* 084 – Decorators – Function With Parameters
+* 085 – Decorators – Practical Speed Test
+
+## حل التكليفات
+
+#### المطلوب حل تكليفات الدروس من 76 إلى 85
+
+* Assignments For Lessons 76 To 78
+* Assignments For Lessons 79 To 80
+* Assignments For Lessons 81 To 85
+
+## البحث
+
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Generators
+* Python Decorators Use Cases
+* Python Date Formatting
+
+# الاسبوع الثاني عشر
+
+## مشاهدة الدروس
+
+#### المطلوب مشاهدة دروس “Modules, Error Handling” الدروس من 86 إلى 94
+
+* 086 – Practical Loop On Many Iterators With Zip
+* 087 – Practical Image Manipulation With Pillow
+* 088 – Docstring And Commenting vs Documenting
+* 089 – Installing And Use Pylint For Better Code
+* 090 – Errors And Exceptions Raising
+* 091 – Exceptions Handling Try Except Else Finally
+* 092 – Exceptions Handling Advanced Example
+* 093 – Debugging Code
+* 094 – Type Hinting
+
+## حل التكليفات
+
+#### المطلوب حل تكليفات الدروس من 86 إلى 94
+
+* Assignments For Lessons 86 To 89
+* Assignments For Lessons 90 To 94
+
+## البحث
+
+#### كلمات البحث التي تحتاجها لزيادة معلوماتك
+
+* Python Handling Errors
+* Python Type Hinting
+
 الاسبوع الثالث عشر
+
 مشاهدة الدروس
+
 المطلوب مشاهدة دروس “Regular Expression” الدروس من 95 إلى 102
 
 #095 – Regular Expression Part 1 – Intro
@@ -335,18 +358,25 @@ Python Type Hinting
 #100 – Regular Expression Part 6 – Re Module Search And FindAll
 #101 – Regular Expression Part 7 – Re Module Split And Sub
 #102 – Regular Expression Part 8 – Group Trainings And Flags
+
 حل التكليفات
+
 المطلوب حل تكليفات الدروس من 95 إلى 102
 
 Assignments For Lessons 95 To 102
+
 البحث
+
 كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 Python Regular Expression
 Python RegExp
 Python Rematch
+
 الاسبوع الرابع عشر
+
 مشاهدة الدروس
+
 المطلوب مشاهدة دروس “Object Oriented Programming” الدروس من 103 إلى 116
 
 #103 – OOP – Part 1 – Introduction
@@ -363,18 +393,25 @@ Python Rematch
 #114 – OOP – Part 12 – Getters And Setters
 #115 – OOP – Part 13 – @Property Decorator
 #116 – OOP – Part 14 – ABCs Abstract Base Class
+
 حل التكليفات
+
 المطلوب حل تكليفات الدروس من 103 إلى 116
 
 Assignments For Lessons 103 To 116
+
 البحث
+
 كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 Python Object Oriented Programming
 Python OOP
 Python Class And Objects
+
 الاسبوع الخامس عشر
+
 مشاهدة الدروس
+
 المطلوب مشاهدة دروس “SQLite Database” الدروس من 117 إلى 127
 
 #117 – Databases – Intro To Database
@@ -388,11 +425,15 @@ Python Class And Objects
 #125 – Databases – SQLite Create Skills App Part 3
 #126 – Databases – SQLite Create Skills App Part 4
 #127 – Databases – SQLite Very Important Informations
+
 حل التكليفات
+
 المطلوب حل تكليفات الدروس من 117 إلى 127
 
 Assignments For Lessons 117 To 127
+
 البحث
+
 كلمات البحث التي تحتاجها لزيادة معلوماتك
 
 Python Databases

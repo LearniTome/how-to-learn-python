@@ -13,6 +13,7 @@ You’ll find week-by-week lessons, assignments, and search hints to deepen your
 ## 🗓️ Weekly Roadmap Overview
 
 Each week covers:
+
 - 🎥 Lessons to watch
 - 📝 Assignments to solve
 - 🔍 Search keywords for further reading

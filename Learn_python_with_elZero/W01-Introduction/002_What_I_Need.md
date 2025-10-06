@@ -21,8 +21,8 @@
           * __HTML__ : For creating the structure and content of web pages.
           * __CSS__ : For styling and visual presentation.
           * __JavaScript__ : For creating interactive elements and dynamic behavior.
-        * __The web and HTTP__ : Understand how the internet works, including how browsers, servers, and the Hypertext Transfer Protocol (HTTP) communicate.
-        * __Databases and SQL__ : Learn how to store and retrieve data. Start with relational databases and SQL, the standard language for managing them.
+          * __The web and HTTP__ : Understand how the internet works, including how browsers, servers, and the Hypertext Transfer Protocol (HTTP) communicate.
+          * __Databases and SQL__ : Learn how to store and retrieve data. Start with relational databases and SQL, the standard language for managing them.
 
     2. __Phase 2 : Python web frameworks__
     Once you have the basics down, you can choose a framework to simplify web development.
@@ -41,4 +41,3 @@
     The most effective way to solidify your knowledge is to build projects.
         * __Create real-world projects__ : Apply what you've learned by building a blog, an e-commerce site, or a to-do list app.
         * __Contribute to open-source__ : Get experience working on a team and interacting with a larger codebase by contributing to open-source Python projects.
-

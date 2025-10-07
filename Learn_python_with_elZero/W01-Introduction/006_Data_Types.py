@@ -41,8 +41,10 @@ print(f"1- What's the type of {quiz_value1}?")
 print(f"2- What's the type of {quiz_value2}?")
 print(f"3- What's the type of {quiz_value3}?")
 
-# Quiz Answers
-print("\nAnswers:")
+# Quiz Answers (using bilt-in Function : type())
+print("\nAnswers using bilt-in Function : type() :")
 print(f"1- {type(quiz_value1)}")
 print(f"2- {type(quiz_value2)}")
 print(f"3- {type(quiz_value3)}")
+
+

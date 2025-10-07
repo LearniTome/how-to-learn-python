@@ -2,6 +2,41 @@
 # -- 01- Python Data Types ---
 # -----------------------------
 
+# All data types in Python are classes and all variables are instances (objects) of these classes.
+
+# Examples of Data Types in Python
+
+print(type(10))          # integer
+
+print(type(3.14))       # float
+
+print(type(1 + 2j))     # complex
+
+print(type("Hello"))    # string
+
+print(type(True))     # boolean
+
+print(type(False))    # boolean
+
+print(type([1, 2, 3]))  # list
+
+print(type((1, 2, 3)))  # tuple
+
+print(type({1, 2, 3}))  # set
+
+print(type({"name": "Alice", "age": 30}))  # dictionary
+
+print(type(None))       # NoneType
+
+print(type(range(5)))  # range
+
+print(type(b"Hello"))   # bytes
+
+print(type(bytearray(5)))  # bytearray
+
+print(type(memoryview(b"Hello")))  # memoryview
+
+
 print("="*50)
 print(" Welcome to Python Data Types Tutorial ")
 print("="*50)

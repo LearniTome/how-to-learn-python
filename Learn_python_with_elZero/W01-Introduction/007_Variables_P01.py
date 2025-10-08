@@ -67,4 +67,19 @@ my_variable = {"One": 1, "Two": 2}  # Dictionary
 print(my_variable)  # {'One': 1, 'Two': 2}  => {'One': 1, 'Two': 2}
 my_variable = {1, 2, 3}  # Set
 print(my_variable)  # {1, 2, 3}  => {1, 2, 3}
-print("="*50) 
+print("="*50)
+
+# Recourse To perform operations on variables
+print("Recourse To perform operations on variables")
+print("="*50)
+print("Real Python")  # Real Python
+print("Guru 99")  # Guru 99
+print("Learn Python")  # Learn Python
+print("W3Schools")  # W3Schools
+print("GeeksforGeeks")  # GeeksforGeeks
+print("Programiz")  # Programiz
+print("TutorialsPoint")  # TutorialsPoint
+print("Python Course")  # Python Course
+print("Code Academy")  # Code Academy
+print("SoloLearn")  # SoloLearn
+print("="*50)

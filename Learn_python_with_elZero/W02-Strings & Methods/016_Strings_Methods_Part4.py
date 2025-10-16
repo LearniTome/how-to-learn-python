@@ -3,6 +3,7 @@
 # ---------------------
 
 # starting Course 016 - Strings Methods in Python
+
 print(f"{'Starting Course 016- Strings Methods in Python'}")
 
 
@@ -27,6 +28,7 @@ print(", ".join(myList))  # Join the elements of the list with ", " as separator
 print(type(", ".join(myList))) # The result is a string
 
 print(f"{'End of Course 016- Strings Methods in Python'}")
+
 # End Course 016 - Strings Methods in Python
 # -------------------------------------------------------------------------------------------------------------
 
